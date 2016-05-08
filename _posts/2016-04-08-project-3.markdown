@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2016-04-08
+img: pinturacampolimpo.png
+alt: pintura oficina
+project-date: Maio 2016
+client: Oficina Automotiva (Auto Center Edson)
+category: Pintura
+description: Restauração da pintura de fachada e teto.
+---

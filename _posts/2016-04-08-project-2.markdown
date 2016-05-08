@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2016-04-08
+img: pinturacampolimpo.png
+alt: azulejo casa
+project-date: Maio 2016
+client: Jardim Panorama
+category: Pintura
+description: Azulejo na fachada da casa.
+---
